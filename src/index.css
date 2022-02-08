@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ccc;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.wrapper {
+/* background-color: url("./4091251.png");; */
+margin-top: 5rem;
+margin-left: 1rem;
+margin-right: 1rem;
+border: 6px solid white;
+border-radius: 4px;
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-bottom: 4rem;
+  padding-top: 1rem;
+    margin-left: 1rem;
+}
+
+.contentDiv {
+  width: 35rem;
+  margin: 0 auto;
+  padding-bottom: 3.5rem;
+}
+
+.sometagsDiv {
+  background: white;
+    height: 4rem;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.maninDiv {
+  background-image: url(./images/wp5055747.jpeg);
+  background-size: 100%;
+}
+
+.buttons {
+  background: white;
+  display: flex;
+  margin: 0 auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  
+}
+
+.photoDivs {
+  display: flex;
+  background: white;
+  justify-content: space-around;
+  padding-bottom: 2rem;
+}
+
+.parentImg {
+  background: white;
+}
+
+.wrap {
+  flex-wrap: wrap;
+  padding-left: 3rem;
+    padding-right: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
